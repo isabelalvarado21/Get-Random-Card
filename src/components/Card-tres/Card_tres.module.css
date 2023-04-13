@@ -1,0 +1,31 @@
+.card {
+    background-color: rgb(176, 13, 106);
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: -3px 4px 19px 12px rgba(0, 0, 0, 0.42);
+    padding: 25px;
+    margin: 30px;
+  }
+  
+  .card__icon {
+    font-size: 80px;
+    color: white;
+  }
+  
+  .card__title {
+    color: white;
+  }
+  
+  .card__description {
+    font-size: 20px;
+    color: white;
+  }
+  
+  .card__button {
+    background-color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    color: rgb(176, 13, 106);
+    font-size: 18px;
+  }
